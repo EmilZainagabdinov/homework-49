@@ -2,9 +2,8 @@
   "name": "js_group_9_homework_49_emil_zainagabdinov",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Emil Zainagabdinov",
